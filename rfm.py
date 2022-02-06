@@ -131,7 +131,7 @@ rfm['RFM_SCORE'] = rfm.recency_score.astype(str) + rfm.frequency_score.astype(
     str)
 rfm.head()
 
-##################################  GÖREV 4  ##################################
+##################################  GÖREV 4  #################################
 # RFM SKORLARININ SEGMENT OLARAK TANIMLANMASI
 # -------------------------------------------
 # ▪ Oluşturulan RFM skorların daha açıklanabilir olması için segment tanımlamaları
